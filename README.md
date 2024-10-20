@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Revanthkumar73/Revanthkumar73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Revanth Kumar Gonuguntla</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">A Passionate Data Engineer for leveraging data to drive informed decision-making, I bring expertise in data to deliver actionable insights and solutions. My primary focus is to contribute effectively and work diligently for the betterment of the organization.</h3>
 <img align=“right” alt=“Engineer” width=“400” src=“https://img.freepik.com/premium-photo/young-man-coding-computer-anime-style-illustration_1282444-262517.jpg?w=1060”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthkumar73&label=Profile%20views&color=0e75b6&style=flat" alt="revanthkumar73" /> </p>
 
