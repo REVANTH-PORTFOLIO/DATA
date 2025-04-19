@@ -1,20 +1,5 @@
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cloud platforms
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Questions related to Artificial Intelligence
-- 📫 How to reach me: linkedin #Revanth Kumar Gonuguntla
-- 😄 Pronouns: He|Him|His
--->
-
 <h1 align="center">Hi 👋, I'm Revanth Kumar Gonuguntla</h1>
 <h3 align="center">A Passionate Data Analyst for leveraging data to drive informed decision-making, I bring expertise in data to deliver actionable insights and solutions. My primary focus is to contribute effectively and work diligently for the betterment of the organization.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthkumar73&label=Profile%20views&color=0e75b6&style=flat" alt="revanthkumar73" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanthkumar73" alt="revanthkumar73" /></a> </p>
 
